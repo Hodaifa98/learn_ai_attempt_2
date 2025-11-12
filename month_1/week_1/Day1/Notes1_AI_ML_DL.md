@@ -17,6 +17,7 @@ elif hours_studied > 3:
     grade = "B"
 else:
     grade = "C"
+```
 
 ### ML :
 | hours_studied | grade |
